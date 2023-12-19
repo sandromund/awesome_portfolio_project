@@ -1,2 +1,4 @@
-# awesome_portfolio_project
+# My Awesome Portfolio Project
 Pushing the boundaries of what is considered possible. 
+
+![](app.gif)
